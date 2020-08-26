@@ -1,3 +1,3 @@
 # datascience
-# project 1 basic level
-# Forex commidities stock analysis
+ project 1 basic level
+ Forex commidities stock analysis
